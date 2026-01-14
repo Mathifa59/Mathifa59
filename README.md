@@ -26,12 +26,11 @@
 <br/>
 
 <h3 align="center" style="color: #00f0ff;">👨‍💻 Sobre Mí</h3>
-<div align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🎓 <b>Formación:</b> Estudiante de Ingeniería de Software (Ciclo 9 - UPC).</li>
-    <li>💼 <b>Actualidad:</b> Integración de APIs (Jira) y desarrollo React/Node.js en <b>Alignet SAC</b>.</li>
-    <li>🚀 <b>Intereses:</b> Ciberseguridad, IA Aplicada y Domain Driven Design (DDD).</li>
-  </ul>
+
+<div align="center" style="font-size: 15px; line-height: 1.8;">
+  🎓 <b>Formación:</b> Estudiante de Ingeniería de Software (Ciclo 9 - UPC).<br/>
+  💼 <b>Actualidad:</b> Integración de APIs (Jira) y desarrollo React/Node.js en <b>Alignet SAC</b>.<br/>
+  🚀 <b>Intereses:</b> Ciberseguridad, IA Aplicada y Domain Driven Design (DDD).
 </div>
 
 <br/>
@@ -50,6 +49,7 @@
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=b300ff" />
   <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=512bd4" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=f7931a" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=33ff00" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffff00" />
   
@@ -65,10 +65,14 @@
 
 <h3 align="center" style="color: #ffff00;">🚀 Proyectos Destacados</h3>
 
+<div align="center">
+
 | **TEEMO SOLUTIONS** | **APU GARDEN (SUMAQ)** |
 | :--- | :--- |
 | *Optimización de rutas marítimas (SOA + DDD).* <br> `Angular` `.NET` `Kotlin` `MySQL` | *Landing page turística de alto impacto.* <br> `HTML` `CSS` `JS` `UX/UI` |
 | 🔒 *Repositorio Privado* | 🟢 **[Ver Demo](https://mathifa59.github.io/Sumaq/)** |
+
+</div>
 
 <br/>
 
