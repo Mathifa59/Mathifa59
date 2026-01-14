@@ -11,15 +11,9 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/mathias-vasquez" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mathiwen519@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ff00ff&borderColor=ff00ff" alt="Email"/>
-  </a>
-  <a href="https://portafolio-five-kappa-12.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=ffff00&borderColor=ffff00" alt="Portafolio"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mathias-vasquez" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff" alt="LinkedIn"/></a>
+  <a href="mailto:mathiwen519@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ff00ff&borderColor=ff00ff" alt="Email"/></a>
+  <a href="https://portafolio-five-kappa-12.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTAFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=ffff00&borderColor=ffff00" alt="Portafolio"/></a>
 </div>
 
 <br/>
@@ -70,7 +64,7 @@
 | **TEEMO SOLUTIONS** | **APU GARDEN (SUMAQ)** |
 | :--- | :--- |
 | *Optimización de rutas marítimas (SOA + DDD).* <br> `Angular` `.NET` `Kotlin` `MySQL` | *Landing page turística de alto impacto.* <br> `HTML` `CSS` `JS` `UX/UI` |
-| 🔒 *Repositorio Privado* | 🟢 **[Ver Demo](https://mathifa59.github.io/Sumaq/)** |
+| 🔒 *Repositorio Privado* | 🟢 <a href="https://mathifa59.github.io/Sumaq/"><strong>Ver Demo</strong></a> |
 
 </div>
 
