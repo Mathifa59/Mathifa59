@@ -12,15 +12,19 @@
   <br/>
 
   <a href="https://www.linkedin.com/in/mathias-vasquez" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5&borderColor=00f0ff" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <br/> <a href="mailto:mathiwen519@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335&borderColor=ff00ff" alt="Email"/>
+  <br/>
+
+  <a href="mailto:mathiwen519@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <br/> <a href="https://portafolio-five-kappa-12.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-0A0A0A?style=for-the-badge&logo=googleearth&logoColor=white&borderColor=ffff00" alt="Portafolio"/>
+  <br/>
+
+  <a href="https://portafolio-five-kappa-12.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-2b3137?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portafolio"/>
   </a>
 </div>
 
@@ -68,12 +72,38 @@
 <h3 align="center" style="color: #ffff00;">🚀 Proyectos Destacados</h3>
 
 <div align="center">
-
-| **TEEMO SOLUTIONS** | **APU GARDEN (SUMAQ)** |
-| :--- | :--- |
-| *Optimización de rutas marítimas (SOA + DDD).* <br> `Angular` `.NET` `Kotlin` `MySQL` | *Landing page turística de alto impacto.* <br> `HTML` `CSS` `JS` `UX/UI` |
-| 🔒 *Repositorio Privado* | 🟢 <a href="https://mathifa59.github.io/Sumaq/"><strong>Ver Demo</strong></a> |
-
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🚢 TEEMO SOLUTIONS</b><br>
+      <i>Optimización de rutas marítimas (SOA + DDD).</i><br><br>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br><br>
+      🔒 <i>Repo Privado</i>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🏨 APU GARDEN (SUMAQ)</b><br>
+      <i>Landing page turística de alto impacto.</i><br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/UX%2FUI-FF61F6?style=flat-square&logo=figma&logoColor=white"/><br><br>
+      🟢 <a href="https://mathifa59.github.io/Sumaq/"><b>Ver Demo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br> <b>📈 MV & ABOGADOS (Freelance)</b><br>
+      <i>Consultoría Digital Integral: Desarrollo Web + Estrategia SEO.</i><br>
+      <sub>Logro: +50% Interacción en redes y +45% Conversión de Leads.</sub><br><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SEO-80B602?style=flat-square&logo=googleanalytics&logoColor=white"/><br><br>
+      💼 <i>Proyecto Consultoría</i>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
