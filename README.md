@@ -36,6 +36,7 @@
 <div align="center" style="font-size: 15px; line-height: 1.8;">
   🎓 <b>Formación:</b> Estudiante de Ingeniería de Software (Ciclo 9 - UPC).<br/>
   💼 <b>Actualidad:</b> Integración de REST Apis, desarrollo fullstack, creacion y desarollo de microfronts y microservicios.
+  <br>
   🚀 <b>Intereses:</b> Data Analytics, Machine Learning e IA.
 </div>
 
