@@ -98,7 +98,6 @@
       <i>Consultoría Digital Integral: Desarrollo Web + Estrategia SEO.</i><br>
       <sub>Logro: +50% Interacción en redes y +45% Conversión de Leads.</sub><br><br>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/>
       <img src="https://img.shields.io/badge/SEO-80B602?style=flat-square&logo=googleanalytics&logoColor=white"/><br><br>
       💼 <i>Proyecto Consultoría</i>
