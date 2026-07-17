@@ -6,7 +6,7 @@
 
 <div align="center">
   <p style="font-size: 16px;">
-    Transformando ideas en soluciones digitales con <b>.NET</b>, <b>React</b> y Arquitecturas Modernas.
+    Transformando ideas en soluciones digitales con <b>React</b>, <b>.NET</b>, <b>Node.js</b> e <b>Inteligencia Artificial</b>.
   </p>
 
   <br/>
@@ -14,17 +14,17 @@
   <a href="https://www.linkedin.com/in/mathias-vasquez" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <br/>
 
   <a href="mailto:mathiwen519@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <br/>
-
-  <a href="https://portafolio-five-kappa-12.vercel.app/" target="_blank">
+  <a href="https://portafolio-mathidev-59.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTAFOLIO-2b3137?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portafolio"/>
+  </a>
+
+  <a href="https://www.devhorses.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DEVHORSES-FF6B00?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="DevHorses"/>
   </a>
 </div>
 
@@ -34,10 +34,9 @@
 <h3 align="center" style="color: #00f0ff;">👨‍💻 Sobre Mí</h3>
 
 <div align="center" style="font-size: 15px; line-height: 1.8;">
-  🎓 <b>Formación:</b> Estudiante de Ingeniería de Software (Ciclo 9 - UPC).<br/>
-  💼 <b>Actualidad:</b> Integración de REST Apis, desarrollo fullstack, creacion y desarollo de microfronts y microservicios.
-  <br>
-  🚀 <b>Intereses:</b> Data Analytics, Machine Learning e IA.
+  🎓 <b>Formación:</b> Ingeniería de Software — Ciclo 9, UPC.<br/>
+  💼 <b>Actualidad:</b> Practicante de Programación en <b>Alignet SAC</b> (plataforma SaaS multi-módulo: micro-frontends, PostgreSQL multi-schema, AWS) y Fundador de <b>DevHorses</b>.<br/>
+  🚀 <b>Intereses:</b> Data Analytics, Machine Learning, Inteligencia Artificial y Ciberseguridad.
 </div>
 
 <br/>
@@ -45,12 +44,13 @@
 <h3 align="center" style="color: #ff00ff;">🛠 Tecnologías</h3>
 
 <div align="center">
+
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00f0ff" />
   <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=dd0031" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=38b2ac" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=e34f26" />
-  
+
   <br/>
 
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=b300ff" />
@@ -59,15 +59,52 @@
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=33ff00" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffff00" />
-  
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" />
+
   <br/>
 
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020" />
+
+  <br/>
+
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=flat-square&logo=bitbucket&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=0052CC" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ffff00" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+
 </div>
 
 <br/>
+<br/>
+
+<h3 align="center" style="color: #ffff00;">💼 Experiencia Profesional</h3>
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🏢 ALIGNET SAC</b><br>
+      <i>Practicante de Programación</i><br>
+      <sub>Noviembre 2025 - Actualidad</sub><br><br>
+      +60 componentes React · Micro-frontends (Module Federation) · PostgreSQL multi-schema (+30 tablas) · AWS (Lambda, S3, CloudFront, Cognito) · Flujos de IA (agents, MCPs, skills)
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>⚖️ MV&ABOGADOS</b><br>
+      <i>Desarrollo web y gestión de marketing</i><br>
+      <sub>Enero - Noviembre 2025</sub><br><br>
+      Campañas Meta Ads y Google Ads · Estrategia digital · ~45% de conversión de visitas a contacto
+    </td>
+  </tr>
+</table>
+</div>
+
 <br/>
 
 <h3 align="center" style="color: #ffff00;">🚀 Proyectos Destacados</h3>
@@ -76,36 +113,52 @@
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <b>🚢 TEEMO SOLUTIONS</b><br>
-      <i>Optimización de rutas marítimas (SOA + DDD).</i><br><br>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br><br>
-      🔒 <i>Repo Privado</i>
+      <b>🏢 DEVHORSES</b><br>
+      <i>Mi propia startup de software, marketing y diseño gráfico.</i><br><br>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00f0ff"/>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=33ff00"/>
+      <img src="https://img.shields.io/badge/Marketing-000000?style=flat-square&logo=googleads&logoColor=4285F4"/><br><br>
+      <sub>+25% de crecimiento en conversión en múltiples clientes</sub><br>
+      🟢 <a href="https://www.devhorses.com/"><b>Ver Sitio</b></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <b>🏨 APU GARDEN (SUMAQ)</b><br>
-      <i>Landing page turística de alto impacto.</i><br><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/UX%2FUI-FF61F6?style=flat-square&logo=figma&logoColor=white"/><br><br>
-      🟢 <a href="https://mathifa59.github.io/Sumaq/"><b>Ver Demo</b></a>
+      <b>🏨 APU GARDEN LODGE</b><br>
+      <i>Sistema de gestión hotelera end-to-end (ES/EN).</i><br><br>
+      <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D"/>
+      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/><br><br>
+      <sub>Reservas, panel admin en tiempo real y +35% en reservas captadas</sub><br>
+      🟢 <a href="https://apu-garden-lodge.com/"><b>Ver Demo</b></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <br> <b>📈 MV & ABOGADOS (Freelance)</b><br>
-      <i>Consultoría Digital Integral: Desarrollo Web + Estrategia SEO.</i><br>
-      <sub>Logro: +50% Interacción en redes y +45% Conversión de Leads.</sub><br><br>
+      <br><b>🌱 SELEKTA FOODS</b><br>
+      <i>Sitio web corporativo para empresa de tecnología agroindustrial.</i><br>
+      <sub>7 páginas · SEO técnico · formulario de contacto seguro (Resend, rate limiting, anti-bots)</sub><br><br>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SEO-80B602?style=flat-square&logo=googleanalytics&logoColor=white"/><br><br>
-      💼 <i>Proyecto Consultoría</i>
+      <img src="https://img.shields.io/badge/SEO-80B602?style=flat-square&logo=googleanalytics&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020"/><br><br>
+      🟢 <a href="https://www.selektafood.com/"><b>Ver Sitio</b></a>
     </td>
   </tr>
 </table>
 </div>
 
+<br/>
+
+<h3 align="center" style="color: #00ff88;">📜 Certificaciones</h3>
+
+<div align="center" style="font-size: 14px;">
+
+  Inteligencia Artificial aplicada a la Ciberseguridad — UPC · Python for Everybody Specialization — University of Michigan
+  <br/>
+  Foundations of Cybersecurity · Connect and Protect: Network Security · Automate Cybersecurity Tasks with Python · Prepare for Cybersecurity Jobs — Google
+
+</div>
+
+<br/>
 <br/>
 
 <div align="center">
