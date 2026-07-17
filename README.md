@@ -129,7 +129,7 @@
       <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D"/>
       <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/><br><br>
       <sub>Reservas, panel admin en tiempo real y +35% en reservas captadas</sub><br>
-      🟢 <a href="https://apu-garden-lodge.com/"><b>Ver Demo</b></a>
+      🟢 <a href="https://apu-garden-lodge.com/"><b>Ver Sitio</b></a>
     </td>
   </tr>
   <tr>
