@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=38b2ac" />
-  <img src="https://img.shields.io/badge/Webpack-000000?style=flat-square&logo=webpack&logoColor=8DD6F9" />
-  <img src="https://img.shields.io/badge/Module_Federation-000000?style=flat-square&logo=webpack&logoColor=8DD6F9" />
+  <img src="https://img.shields.io/badge/Webpack-000000?style=flat-square&logo=windowsterminal&logoColor=8DD6F9" />
+  <img src="https://img.shields.io/badge/Module_Federation-000000?style=flat-square&logo=windowsterminal&logoColor=8DD6F9" />
 
   <br/>
 
@@ -64,25 +64,25 @@
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffff00" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=b300ff" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=windowsterminal&logoColor=b300ff" />
   <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=512bd4" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-000000?style=flat-square&logo=windowsterminal&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=anthropic&logoColor=D97757" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=anthropic&logoColor=00f0ff" />
   <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
 
   <br/>
 
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=windowsterminal&logoColor=00f0ff" />
   <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Lambda_·_S3_·_CloudFront_·_Cognito-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=windowsterminal&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Lambda_S3_CloudFront_Cognito-000000?style=flat-square&logo=windowsterminal&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020" />
@@ -90,13 +90,13 @@
   <br/>
 
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-000000?style=flat-square&logo=bitbucket&logoColor=0052CC" />
   <img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=0052CC" />
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=D97757" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Q-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Kiro-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Q-000000?style=flat-square&logo=windowsterminal&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Kiro-000000?style=flat-square&logo=windowsterminal&logoColor=white" />
 
   <br/>
 
@@ -145,7 +145,7 @@
       <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring&logoColor=6DB33F"/>
       <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688"/>
       <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      <img src="https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=00f0ff"/><br><br>
+      <img src="https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=windowsterminal&logoColor=00f0ff"/><br><br>
       <sub>Arquitectura end-to-end con frontend, servicios de negocio y servicios de IA separados · RAG con LLMs y búsqueda semántica (pgvector) · Modelos de ML (Random Forest, TF-IDF) para clasificación de riesgo y recomendación · Enfoque en escalabilidad, trazabilidad y explicabilidad</sub>
     </td>
     <td width="50%" align="center" valign="top">
